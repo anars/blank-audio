@@ -10,3 +10,5 @@
 ### How it would be to go back to that space?
 
 # Silence is golden...
+
+![Blank Audio Artwork](/anars/blank-audio/blob/master/artwork.png)
