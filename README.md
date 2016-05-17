@@ -11,4 +11,4 @@
 
 # Silence is golden...
 
-![Blank Audio Artwork](/anars/blank-audio/blob/master/artwork.png)
+![Blank Audio Artwork](artwork.png)
